@@ -1,0 +1,4 @@
+MediaPipe Pose Classification Dataset - https://www.kaggle.com/code/dschettler8845/gislr-learn-eda-baseline/notebook
+https://www.kaggle.com/datasets/muhannadtuameh/exercise-recognition
+
+Yoga Poses Dataset MediaPipe - https://www.kaggle.com/code/nnsssadithya/yoga-mediapipe
